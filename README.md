@@ -1,4 +1,9 @@
+# USE THIS AT YOUR OWN RISK.
+# CONFIG.TXT REQUIRED.
+
 # Autopilot
+
+
 
 **Autopilot** is a desktop automation tool that uses GPT-4 and screen analysis to execute user-defined tasks. It captures your screen, understands your objective, and automates your computer through intelligent actions.
 
