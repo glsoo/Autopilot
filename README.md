@@ -1,11 +1,11 @@
 # USE THIS AT YOUR OWN RISK.
 CONFIG.TXT REQUIRED TO FUNCTION PROPERLY
 
-# Autopilot
+# Synapto
 
 
 
-**Autopilot** is a desktop automation tool that uses GPT-4 and screen analysis to execute user-defined tasks. It captures your screen, understands your objective, and automates your computer through intelligent actions.
+**Synapto** is a desktop automation tool that uses GPT-4 and screen analysis to execute user-defined tasks. It captures your screen, understands your objective, and automates your computer through intelligent actions.
 
 ---
 
@@ -27,9 +27,8 @@ CONFIG.TXT REQUIRED TO FUNCTION PROPERLY
 
 ## Configuration (Required)
 
-Autopilot requires a `config.txt` file in the same folder as the executable.
-
-If this file is missing, the program will not start.
+Synapto requires a `config.txt` file in the same folder as the executable.
+Without one, it will create one by itself.
 
 ### Example `config.txt`:
 ```
@@ -48,9 +47,9 @@ DEFAULT_EXIT_MESSAGE=Objective complete.
 
 ## Usage
 
-1. Run `Autopilot.exe`
+1. Run `Synapto.exe`
 2. Enter your task or objective in the input window
-3. Autopilot will begin interpreting your screen and taking actions
+3. Synapto will begin interpreting your screen and taking actions
 4. Press `F5` at any time to stop
 5. A message will display when the task is marked complete by the AI
 
@@ -60,7 +59,7 @@ DEFAULT_EXIT_MESSAGE=Objective complete.
 
 **Use this software at your own risk.**
 
-- Autopilot can control your mouse and keyboard automatically.
+- Synapto can control your mouse and keyboard automatically.
 - The developer is **not responsible** for any unintended behavior, file changes, system actions, or data loss.
 - Always run in a controlled environment and review objectives before submitting.
 
